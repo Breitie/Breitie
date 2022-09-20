@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Breitie
 - 👀 I’m interested in learning more about we development and having space to be creative. I alos love to read.
 - 🌱 I’m currently learning web developement 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ i would love someone to help me with a way to learn and earn.
 - 📫 How to reach me via email daylinnjohnson.dj@gmail.com 
 
 <!---
